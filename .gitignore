@@ -1,0 +1,14 @@
+/vendor/
+.env
+.DS_Store
+**/.DS_Store
+/logs/
+/public/uploads/signalements/*.png
+/public/uploads/signalements/*.jpg
+/public/uploads/signalements/*.jpeg
+/public/uploads/pieces/*.png
+/public/uploads/pieces/*.jpg
+/public/uploads/pieces/*.jpeg
+*.log
+.idea/
+.vscode/
